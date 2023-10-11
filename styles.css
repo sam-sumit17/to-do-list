@@ -236,7 +236,7 @@ li{
     height:fit-content;
     word-wrap:break-word;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
     
     body{
         /* background-image: url('Images/astronomy-1867616.jpg');
